@@ -12,6 +12,7 @@
         "php": "^8.2",
         "laravel/framework": "^11",
         "laravel/tinker": "^2.9",
+        "statamic-rad-pack/wp-import": "^1.7",
         "statamic/cms": "^5.0"
     },
     "require-dev": {
